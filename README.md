@@ -8,6 +8,6 @@ Student ID: 2318163
 
 ## Quick Links
 
-- [PDF](https://github.com/arielmata/CPSC354/tree/main/Assignment1) of the report.
-- [Latex](https://github.com/arielmata/CPSC354/tree/main/Assignment2) code of the report
+- [PDF](https://github.com/arielmata/CPSC354-Final/blob/main/report.pdf) of the report
+- [Latex](https://github.com/arielmata/CPSC354-Final/blob/main/main.tex) code of the report
 - [Program](https://github.com/arielmata/CPSC354-Final/tree/main/Final) - A Simple Calculator for Roman Numerals
