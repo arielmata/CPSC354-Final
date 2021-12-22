@@ -1,4 +1,4 @@
-### Program
+# Program
 A simple calculator for Roman numerals.
 
 ## Features
