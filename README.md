@@ -1,1 +1,15 @@
-# CPSC354-Final
+# CPSC 354 - Final
+A repository that contains the PDF of the report, the Latex code of the report, and the code for the program portion of the report for the class CPSC 354 - Programming Languages.
+
+## Author
+Name: **Ariel Gutierrez**\
+Email: arigutierrez@chapman.edu\
+Student ID: 2318163
+
+## Quick Links
+
+[PDF](https://github.com/arielmata/CPSC354/tree/main/Assignment1) of the report.
+
+[Latex](https://github.com/arielmata/CPSC354/tree/main/Assignment2) code of the report
+
+[Program](https://github.com/arielmata/CPSC354/tree/main/Assignment3): Simple Calculator for Roman Numerals
